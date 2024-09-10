@@ -21,10 +21,10 @@ The dataset was downloaded from Kaggle, an online platform for data scientists, 
 - Surname: Surname
 - CreditScore: Credit score
 - Geography: Country (Germany / France / Spain)
-- Gender: Gender (Female / Male)
+- Gender: Female / Male
 - Age: Age
 - Tenure: How many years of customer
-- Balance: Balance
+- Balance: amount in the account
 - NumOfProducts: Bank product used
 - HasCrCard: Credit card status (0 = No, 1 = Yes)
 - IsActiveMember: Active membership status (0 = No, 1 = Yes)
