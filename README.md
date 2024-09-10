@@ -28,7 +28,7 @@ The dataset was downloaded from Kaggle, an online platform for data scientists, 
 - NumOfProducts: Bank product used
 - HasCrCard: Credit card status (0 = No, 1 = Yes)
 - IsActiveMember: Active membership status (0 = No, 1 = Yes)
-- EstimatedSalary: Estimated salary
+- EstimatedSalary: monetary value
 - Exited: Abandoned or not? (0 = No, 1 = Yes)
 
 ## Pre-requirements
