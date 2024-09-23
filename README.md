@@ -14,11 +14,12 @@ In the banking industry, customers have various options to fulfill their financi
 ### Data Set Story:
 The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
 
-- It consists of 10000 observations and 12 variables.
+- It consists of 10000 observations and 13 variables.
 - Independent variables contain information about customers.
 - The dependent variable refers to customer abandonment.
 
 ### Features:
+- CustomerID: Client identification
 - Surname: Surname
 - CreditScore: Credit score
 - Geography: Country (Germany / France / Spain)
