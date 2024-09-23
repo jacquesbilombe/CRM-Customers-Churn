@@ -1,10 +1,11 @@
 # CRM-Customers-Churn
 
-In the banking industry, customers have various options to fulfill their financial needs, including choosing from various institutions. With customers highly discerning about service quality, even a single negative experience can impact their perception of the entire bank. Banking services have become integral to daily life, with even short disruptions causing anxiety, underscoring our reliance on these services. Given the high cost of acquiring customers, analyzing churn becomes crucial. The churn rate measures the proportion of customers who terminate or do not renew their subscriptions, directly affecting revenue. Insights from churn analysis inform strategic decisions, enabling targeted actions to enhance service quality and customer experience, fostering trust and loyalty. Thus, predictive modeling and detailed churn analysis are imperative for sustainable growth in the banking sector.
+In the banking industry, customers have various options to fulfill their financial needs, including choosing from multiple institutions. With customers highly discerning about service quality, even a single negative experience can impact their perception of the entire bank. Banking services have become integral to daily life, with even short disruptions causing anxiety, underscoring our reliance on these services. Given the high cost of acquiring customers, analyzing churn becomes crucial. The churn rate measures the proportion of customers who terminate or do not renew their subscriptions, directly affecting revenue. Insights from churn analysis inform strategic decisions, enabling targeted actions to enhance service quality and customer experience, fostering trust and loyalty. Thus, predictive modeling and detailed churn analysis are imperative for sustainable growth in the banking sector.
 
 #### Aim:
 - To classify the potential churn customers based on numerical and categorical features.
 - It is a binary classification problem for an imbalanced dataset.
+- Churn Score prediction can be a Supervised or Unsupervised problem, however, for this project, it'll be a supervised approach to solve the problem.
 
 ### Credits
 - First, it goes to Simge Erek, whose [notebook](https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning/notebook#%C2%A04--Model-Tuning) served as a reference for this work.
